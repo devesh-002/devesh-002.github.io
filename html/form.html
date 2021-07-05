@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head><title>Devesh Marwah</title>
+<style>
+  label,th,tr{
+    color: white;
+  }
+</style>
+<body style="background-color:  #301934">
+<br><br><br><br><br>
+<div id="navbar1" class="topnav">
+    <nav class="navbar navbar-inverse bg-light navbar-light" >
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#abc">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>                        
+            </button>
+            <a class="navbar-brand" href="index.html" style="font-size: 20px;"onmouseover="changecolour(this)" onmouseout="changeback(this)">Devesh Marwah</a>
+          </div>
+          <div class="collapse navbar-collapse" id="abc">
+            <ul class="nav navbar-nav" >
+              <li ><a href="index.html"onmouseover="changecolour(this)" onmouseout="changeback(this)" >Home</a></li>
+              
+              <li><a href="info.html"onmouseover="changecolour(this)" onmouseout="changeback(this)">Info</a></li>
+              <li><a href="Contact.html"onmouseover="changecolour(this)" onmouseout="changeback(this)">Contacts</a></li>
+              <li><a href="achievement.html"onmouseover="changecolour(this)" onmouseout="changeback(this)">achievements</a></li>
+              <li class="active"><a href="form.html"onmouseover="changecolour(this)" onmouseout="changeback(this)">Form</a></li>
+            </ul>
+       
+          </div>
+        </div>
+      </nav>
+        </div>
+<form id="form">
+    <div class="form-group">
+      <label for="input1">Email address</label>
+      <input type="email" class="form-control" id="input1" placeholder="name@example.com">
+    </div>
+
+    <div class="form-group">
+        <label for="input2">Skill set</label>
+        <input type="skill" class="form-control" id="input2" placeholder="eg.HTML">
+      </div>
+      <div class="form-group">
+        <label for="input3">Name</label>
+        <input type="name" class="form-control" id="input3" placeholder="eg.XYZ">
+      </div>
+    <div class="form-group">
+      <label for="input4">Example select</label>
+      <select class="form-control" id="input4">
+        <option id="proficient" selected>Proficient</option>
+        <option id="inter">Intermediate</option>
+        <option id="beg" onclick="begin()">Beginner</option>
+      </select>
+    </div>
+ 
+      </form>  
+      <div>
+      <button type="submit" class="btn btn-primary mb-2" onclick="submitbutton()" id="submit">Submit</button>
+      <div class="table-responsive">
+      <table class="table table-bordered" id="myTable">
+<thead class="thead-dark">
+        <tr>
+          <th rowspan="2">Skill</th>
+          <th rowspan="2">Level proficency</th>
+          <th style="text-align:center" colspan="2" >Details of person</th>
+        </tr>
+        <tr>
+          <td>Name</td>
+          <td>Email-id</td>
+        </tr>
+        </thead>
+      </table></div></div>
+    </body>
+    <script src="../js/script.js"></script>
+    <script src="../js/form.js"></script>
+</html>
+
