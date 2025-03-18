@@ -6,14 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I'm Devesh Marwah, a Computer Science and Research enthusiast with a B.Tech and MS by Research from IIIT Hyderabad. My academic journey and projects reflect my passion for Natural Language Processing, Deep Learning, and Cognitive Science. Currently, I'm working as a Research Intern at Georgia Tech on innovative NLP applications, having previously interned at JPMorgan Chase & Co. on quantitative research.
+Hello! I'm Devesh Marwah, a Computer Science and Research enthusiast with a B.Tech and MS by Research from IIIT Hyderabad. My academic journey and projects reflect my passion for Natural Language Processing, Deep Learning, and Cognitive Science. Currently, I'm working as a Research Intern on innovative NLP applications.
 
 Experience
 ====
-- Quantitative Research and Development Intern, JPMorgan Chase & Co.
-Optimized in-house library memory usage by 50% and accelerated performance using distributed systems.
 
-- Research Intern at Georgia Tech's FSIL
+
+- Research Intern at  FSIL
 Extending work on Beige Books using transformers, specifically fine-tuning RoBERTa for classification tasks.
 
 - Cog Sci Lab, IIIT Hyderabad
