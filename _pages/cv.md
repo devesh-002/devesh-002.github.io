@@ -9,56 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Experience
+====
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- SDE Intern at Amazon
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- Research Intern at  FSIL
+Extending work on Beige Books using transformers, specifically fine-tuning RoBERTa for classification tasks.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Cog Sci Lab, IIIT Hyderabad
+Conducted music perception research, studying cultural trends with SVM regression analysis under Professor Vinoo Alluri.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Projects
+====
+Some key projects I’ve worked on include:
+
+- TopicSumGraph: Implemented extractive summarization with Graph Neural Networks.
+- Multilingual Text Summarization: Achieved near state-of-the-art scores for Gujarati summarization using mt5, mBART.
+- Scientific Data Compression: Improved CERN’s compression library using variational and adversarial autoencoders.
+- Wikipedia Search Engine: Built a scalable multilingual search engine indexing Wikipedia data efficiently.
+
+Technical Skills
+====
+- Programming: Python, C++, JavaScript, SQL, Bash
+- Frameworks & Libraries: PyTorch, TensorFlow, ReactJS, Docker, Huggingface
+- Systems & Tools: Assembly x86, QGIS, Web3
+
+Awards and Achievements
+====
+- Dean's List and Merit List honors, placing in the top 5–20% of my class.
+- Teaching Assistant for Data Structures, Algorithms, and DBMS courses.
+- Chess Enthusiast with a 1400+ blitz rating on chess.com. 

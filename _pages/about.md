@@ -6,35 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I'm Devesh Marwah, a Computer Science and Research enthusiast with a B.Tech and MS by Research from IIIT Hyderabad. My academic journey and projects reflect my passion for Natural Language Processing, Deep Learning, and Cognitive Science. Currently, I'm working as a Research Intern on innovative NLP applications.
+Hey there! I'm Devesh Marwah, a proud survivor of a dual degree (B.Tech + MS by Research) in Computer Science from IIIT Hyderabad. My academic adventures have led me into the fascinating worlds of Natural Language Processing, Deep Learning, and Cognitive Science—basically teaching computers to read minds, one step at a time.
 
-Experience
-====
+When I'm not busy debugging my life (or code), you'll probably catch me playing badminton, chess, or debating cricket stats. My downtime usually involves binge-watching crime thrillers and listening to bollywood music.
 
 
-- Research Intern at  FSIL
-Extending work on Beige Books using transformers, specifically fine-tuning RoBERTa for classification tasks.
+Currently, I am pursuing my dissertation under the guidance of Professor Aniket Alam, which explores the intersection of Political Science and Computer Science, specifically employing computational methodologies to analyze electoral politics in India.
 
-- Cog Sci Lab, IIIT Hyderabad
-Conducted music perception research, studying cultural trends with SVM regression analysis under Professor Vinoo Alluri.
 
-Projects
-====
-Some key projects I’ve worked on include:
+Welcome to my corner of the internet—stay awhile, poke around, and feel free to say hi!
 
-- TopicSumGraph: Implemented extractive summarization with Graph Neural Networks.
-- Multilingual Text Summarization: Achieved near state-of-the-art scores for Gujarati summarization using mt5, mBART.
-- Scientific Data Compression: Improved CERN’s compression library using variational and adversarial autoencoders.
-- Wikipedia Search Engine: Built a scalable multilingual search engine indexing Wikipedia data efficiently.
-
-Technical Skills
-====
-- Programming: Python, C++, JavaScript, SQL, Bash
-- Frameworks & Libraries: PyTorch, TensorFlow, ReactJS, Docker, Huggingface
-- Systems & Tools: Assembly x86, QGIS, Web3
-
-Awards and Achievements
-====
-- Dean's List and Merit List honors, placing in the top 5–20% of my class.
-- Teaching Assistant for Data Structures, Algorithms, and DBMS courses.
-- Chess Enthusiast with a 1400+ blitz rating on chess.com.
